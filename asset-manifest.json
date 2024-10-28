@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Router-Web/static/css/main.27a1d4e3.css",
+    "main.js": "/React-Router-Web/static/js/main.1c6bbd37.js",
+    "static/js/453.c780744e.chunk.js": "/React-Router-Web/static/js/453.c780744e.chunk.js",
+    "index.html": "/React-Router-Web/index.html",
+    "main.27a1d4e3.css.map": "/React-Router-Web/static/css/main.27a1d4e3.css.map",
+    "main.1c6bbd37.js.map": "/React-Router-Web/static/js/main.1c6bbd37.js.map",
+    "453.c780744e.chunk.js.map": "/React-Router-Web/static/js/453.c780744e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27a1d4e3.css",
+    "static/js/main.1c6bbd37.js"
+  ]
+}
